@@ -1,0 +1,7 @@
+{
+  "typescript.suggest.enabled": false,
+  "typescript.validate.enable": false,
+  "editor.suggest.showSnippets": false,
+  "javascript.suggest.autoImports": false,
+  "javascript.suggest.enabled": false
+}

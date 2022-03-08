@@ -1,3 +1,3 @@
-export const hello = () => {
-  return "world";
-};
+export function hello(n: number): number[] {
+  
+}
